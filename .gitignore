@@ -1,0 +1,11 @@
+cat > .gitignore <<EOF
+node_modules/
+venv/
+__pycache__/
+.env
+.env.local
+dist/
+build/
+.vscode/
+.DS_Store
+EOF
