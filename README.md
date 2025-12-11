@@ -1,6 +1,3 @@
-cd ~/OneDrive/Desktop/MAI_local/medlingua-ai
-
-cat > README.md << 'EOF'
 # MedLingua AI 🩺🤖
 
 **Comprehensive AI‑powered multilingual healthcare platform offering intelligent consultations, blood bank discovery, and curated real‑time health information.**
