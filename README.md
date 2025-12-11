@@ -15,7 +15,7 @@
 ![Voice Demo](screenshots/language-setup.png)
 
 ### 📸 Image Analysis
-![Chatbot responses with AI‑powered consultation suggestions](screenshots/chatbot-demo.png)
+![Chatbot responses with AI‑powered consultation suggestions”](screenshots/chatbot-demo.png)
 
 ### 🩸 Blood Bank
 ![Blood Bank](screenshots/blood-bank.png)
