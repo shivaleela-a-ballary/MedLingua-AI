@@ -1,39 +1,44 @@
-# MedLingua AI - Multilingual Health Assistant
+# MedLingua AI 🩺🤖
 
-Complete full-stack web app powered by Google Gemini 2.0 Pro + Vision.
+**AI-powered multilingual healthcare chatbot with text, voice & image analysis**
 
-## Quick Start
+[![React](https://img.shields.io/badge/React-18-blue?style=for-the-badge&logo=react)](https://react.dev/)
+[![Tailwind](https://img.shields.io/badge/Tailwind-3.4-green?style=for-the-badge&logo=tailwind)](https://tailwindcss.com/)
+[![Vite](https://img.shields.io/badge/Vite-5-orange?style=for-the-badge&logo=vite)](https://vitejs.dev/)
 
-### Backend Setup
-```bash
-cd backend
-npm install
-echo "GEMINI_API_KEY=your_key" > .env
-npm start
-```
+## 🎬 Live Demo
+![MedLingua AI Homepage](screenshots/chatbot-home.png)
 
-### Frontend Setup
-```bash
-cd frontend
+## ✨ Features Showcase
+
+### 🗣️ Voice Input
+![Voice Demo](screenshots/voice-input.png)
+
+### 📸 Image Analysis
+![Image Analysis](screenshots/image-analysis.png)
+
+### 🩸 Blood Bank
+![Blood Bank](screenshots/bloodbank-locator.png)
+
+### 📱 Mobile View
+![Mobile Responsive](screenshots/mobile-view.png)
+
+## 🚀 Quick Start
+
+git clone https://github.com/shivaleela-a-ballary/MedLingua-AI.git
+cd MedLingua-AI/frontend
 npm install
 npm run dev
-```
 
-### Get API Key
-Visit: https://aistudio.google.com/app/apikey
+## 🛠️ Tech Stack
 
-## Features
-- Text, voice & image input
-- 23+ Indian languages
-- Medical report analysis  
-- Voice output
-- Health news & schemes
-- Responsive design
+Frontend: React 18 + Vite + Tailwind CSS
 
-## Tech Stack
-- React 18 + Vite + Tailwind CSS
-- Node.js + Express
-- Google Gemini API
-- Web Speech API
 
-Open: http://localhost:3000
+
+## 👤 Author
+**Shivaleela A Ballary**  
+3rd Year CSE | Full-Stack Developer
+
+## 📄 License
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
